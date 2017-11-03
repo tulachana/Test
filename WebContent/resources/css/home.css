@@ -1,0 +1,54 @@
+
+
+body{
+	padding-top: 70px;
+}
+
+.jumbotron {
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+.jumbotron h1{
+	 font-style: normal;
+	 font-family: "Times New Roman", Times, serif;
+	 text-shadow: 0 0 3px #FF0000;
+}
+.manImg {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.jumbotron h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
+.navbar-inverse {
+	color: #2c3e50;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+
+.flex {
+	display: flex;
+	flex-wrap: wrap;
+}
+.img {
+    position: relative;
+    float: left;
+    width:  100px;
+    height: auto;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}

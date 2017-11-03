@@ -1,0 +1,9 @@
+#success_message{ display: None;}
+
+.error {
+	color: #ff0000;
+	font-style: italic;
+	font-weight: normal;
+}
+
+h2{color: #800000;}
